@@ -1,2 +1,2 @@
-# HIPAA-NDA
-HIPAA NDA for Denton FD Ride-Along participants
+# DFD Adult Liability Release
+Release form for Denton FD Ride-Along participants
